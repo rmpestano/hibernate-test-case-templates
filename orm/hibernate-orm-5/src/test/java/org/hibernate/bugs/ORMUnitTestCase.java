@@ -37,7 +37,7 @@ import static org.junit.Assert.assertEquals;
  * What's even better?  Fork hibernate-orm itself, add your test case directly to a module's unit tests, then
  * submit it as a PR!
  */
-@TestForIssue( jiraKey = "HHH-10965" )
+@TestForIssue( jiraKey = "HHH-11043" )
 public class ORMUnitTestCase extends BaseCoreFunctionalTestCase {
 
 	// Add your entities here.
